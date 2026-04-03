@@ -13,4 +13,15 @@ This script solves that by securely extracting *only* the specific AMF encoding/
 
 1. **Download the script:**
    ```bash
-   wget [https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/install-amf.sh](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/install-amf.sh)
+   wget https://raw.githubusercontent.com/etsiej/mesa-safe-amf/refs/heads/main/amf-runtime-installer.sh
+    ```
+   
+2. Open your terminal and make the script executable by running:
+
+    ```Bash
+    chmod +x install-amf.sh
+    ```
+3. Run the script:
+    ```Bash
+    ./install-amf.sh
+    ```
