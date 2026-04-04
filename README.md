@@ -19,9 +19,9 @@ This script solves that by securely extracting *only* the specific AMF encoding/
 2. Open your terminal and make the script executable by running:
 
     ```Bash
-    chmod +x install-amf.sh
+    chmod +x amf-runtime-installer.sh
     ```
 3. Run the script:
     ```Bash
-    ./install-amf.sh
+    ./amf-runtime-installer.sh
     ```
